@@ -1,2 +1,5 @@
 # Design-and-analysis-of-algorithms
-Class Codes
+Codes for the algos done in class.
+
+        ------Disclaimer------
+   Use it for reference only. Dont kang it.
