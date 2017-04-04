@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class SubsetSum {
 	static void findNumbers(int[] list, int index, int current, int goal, String result)
 	{ 
-	  if (list.length <= index || current>goal) // I've added the "=" which is missing in your code.
+	  if (list.length <= index || current>goal)
 	          return;
 	  if (current + list[index] == goal)   {
 	      System.out.println(result + " " + String.valueOf(list[index]));
